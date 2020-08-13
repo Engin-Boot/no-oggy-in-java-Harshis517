@@ -3,11 +3,11 @@
 
 ## Intention
 
-Remove "oggy" from the oggy and cockroach.
+This program intends to remove strings containing 'oggy' from a list of strings.
+Because oggy creates trouble.
 
 
 ## Method
 
-The code doesn't work according to the intention. Make it succeed.
 
-Don't forget to update this file after fixing the code.
+If 'oggy' is a sub string of any string in array, then remove it.
