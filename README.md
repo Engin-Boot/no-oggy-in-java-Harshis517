@@ -5,7 +5,7 @@
 
 This program intends to remove strings containing 'oggy' from a list of strings.
 
-Because I dont like coackroaches.
+Because I dont like cockroaches.
 
 
 ## Method
