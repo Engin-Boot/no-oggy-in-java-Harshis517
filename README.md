@@ -5,11 +5,9 @@
 
 This program intends to remove strings containing 'oggy' from a list of strings.
 
-
-Because oggy creates trouble.
+Because I dont like coackroaches.
 
 
 ## Method
-
 
 If 'oggy' is a sub string of any string in array, then remove it.
